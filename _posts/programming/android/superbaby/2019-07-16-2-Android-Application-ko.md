@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2. [ASDcourse] Android Application
+title: 2. [ASDcourse] Android Application Components
 tags: [Android,AndroidStudio,Beginner,Develop]
 ---
 모든 완성품에는 그것을 구성하고있는 추상적인 것들이 있습니다. 이것은 재료와는 다른 일종의 기본적인 구성품들입니다. 예를 들면, 요리는 소스, 토핑, 비율이듯이 말이지요.

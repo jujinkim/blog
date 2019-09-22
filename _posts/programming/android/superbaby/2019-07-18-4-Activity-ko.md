@@ -15,7 +15,7 @@ tags: [Android,AndroidStudio,Beginner,Develop]
 1. `onCreate`: Activity가 만들어집니다.
 2. `onStart`: Activity가 시작됩니다.
 3. `onResume`: Activity가 계속됩니다.
-4. 이 상태가 화면에 액티비티가 보이고 있는 상태입니다.
+4. 현재 상태가 화면에 액티비티가 보이고 있는 상태입니다.
 5. `onPause`: Activity가 일시정지됩니다.
 6. `onStop`: Activity가 완전 정지됩니다.
 7. `onDestroy`: Activity가 파괴됩니다.
